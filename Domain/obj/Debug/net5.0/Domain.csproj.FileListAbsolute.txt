@@ -1,0 +1,12 @@
+C:\Jayanth\React\Demo\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Jayanth\React\Demo\Domain\bin\Debug\net5.0\Domain.dll
+C:\Jayanth\React\Demo\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Jayanth\React\Demo\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Jayanth\React\Demo\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Jayanth\React\Demo\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jayanth\React\Demo\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Jayanth\React\Demo\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Jayanth\React\Demo\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Jayanth\React\Demo\Domain\obj\Debug\net5.0\Domain.dll
+C:\Jayanth\React\Demo\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Jayanth\React\Demo\Domain\obj\Debug\net5.0\Domain.pdb

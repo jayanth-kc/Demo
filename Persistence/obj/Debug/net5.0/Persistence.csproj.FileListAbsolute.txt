@@ -1,0 +1,14 @@
+C:\Jayanth\React\Demo\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Jayanth\React\Demo\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Jayanth\React\Demo\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Jayanth\React\Demo\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Jayanth\React\Demo\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Jayanth\React\Demo\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Jayanth\React\Demo\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+C:\Jayanth\React\Demo\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jayanth\React\Demo\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Jayanth\React\Demo\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Jayanth\React\Demo\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Jayanth\React\Demo\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Jayanth\React\Demo\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Jayanth\React\Demo\Persistence\obj\Debug\net5.0\Persistence.pdb
